@@ -10,7 +10,7 @@ const Roadmap = () => {
                         <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">The Path to Success</h2>
                         <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                             Bitnomia Token has an ambitious roadmap that will take us to new heights. Check out our planned milestones
-                            and see how we're building the future of desentralized financial tokens.
+                            and see how we&apos;re building the future of desentralized financial tokens.
                         </p>
                     </div>
                 </div>

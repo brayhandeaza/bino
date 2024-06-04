@@ -16,6 +16,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="shortcut icon" href="https://res.cloudinary.com/brayhandeaza/image/upload/v1717468469/bitnomia/az7o0au5wmrvuturuczx.png" type="image/x-icon" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

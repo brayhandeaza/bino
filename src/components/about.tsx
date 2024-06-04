@@ -15,7 +15,7 @@ const About = () => {
                             A Token with Real Utility
                         </h2>
                         <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-500">
-                            Bitnomia is not just a token. It's a community-driven project with real-world use cases and a
+                            Bitnomia is not just a token. It&apos;s a community-driven project with real-world use cases and a
                             roadmap for long-term growth. Our mission is to provide real profit to our holders over the time in every transaction.
                         </p>
                         <ul className="grid gap-4">
@@ -43,8 +43,8 @@ const About = () => {
                                 <div>
                                     <h3 className="text-lg font-bold">Community Governance</h3>
                                     <p className="text-gray-500 dark:text-gray-400">
-                                        Bitnomia Token holders have a say in the project's direction through a decentralized governance
-                                        model, ensuring the community's voice is heard.
+                                        Bitnomia Token holders have a say in the project&apos;s direction through a decentralized governance
+                                        model, ensuring the community&apos;s voice is heard.
                                     </p>
                                 </div>
                             </li>

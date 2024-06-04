@@ -11,7 +11,7 @@ const Utility = () => {
                     <Image src={logo} width={80} height={80} alt="Token Logo" className="mx-auto rounded-full" />
                     <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">Bitnomia Token</h1>
                     <p className="max-w-[600px] mx-auto text-gray-700 md:text-xl dark:text-gray-900">
-                        A token that's taking the crypto world by storm. Join the Bitnomia Army and ride the wave up to the
+                        A token that&apos;s taking the crypto world by storm. Join the Bitnomia Army and ride the wave up to the
                         infinite and beyond!
                     </p>
                     <div className="flex justify-center gap-4">
