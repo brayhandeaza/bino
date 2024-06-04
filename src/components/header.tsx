@@ -10,7 +10,7 @@ const Header = () => {
                 <span className="ml-2 text-lg font-bold">Bitnomia</span>
             </Link>
             <nav className="ml-auto flex gap-4 sm:gap-6">
-                <Link href="/" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
+                <Link target='_blank' href="https://etherscan.io/address/0xd804b50a4147f0fcb982e98663621736c1cdea80" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
                     Explorer
                 </Link>
                 <Link href="#about" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>

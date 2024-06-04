@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react'
 
 const Metrics = () => {
@@ -52,10 +53,15 @@ const Metrics = () => {
                         </div>
                     </div>
                     <div className="bg-gray-100 p-6 rounded-lg">
-                        <h3 className="text-xl font-bold">How to Buy</h3>
-                        <div className="mt-4 grid gap-4 text-gray-500 dark:text-gray-400">
-                            <p>Bitnomia Token is currently available for purchase on the following decentralized exchanges:</p>
-                        </div>
+                        <h3 className="text-xl font-bold">Buy Bitnomia (BINO)</h3>
+                        <Link
+                            target='_blank'
+                            href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xd804b50a4147f0fcb982e98663621736c1cdea80"
+                            className="inline-flex mt-3 h-10 items-center justify-center rounded-md bg-gray-900 px-8 text-sm font-medium text-gray-50 shadow transition-colors hover:bg-gray-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-gray-50  dark:bg-gray-950 dark:focus-visible:ring-gray-300"
+                            prefetch={false}
+                        >
+                            Buy Bitnomia(BINO)
+                        </Link>
                     </div>
                 </div>
             </div>

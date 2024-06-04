@@ -16,7 +16,8 @@ const Utility = () => {
                     </p>
                     <div className="flex justify-center gap-4">
                         <Link
-                            href="#"
+                            target='_blank'
+                            href="https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xd804b50a4147f0fcb982e98663621736c1cdea80"
                             className="inline-flex h-10 items-center justify-center rounded-md bg-gray-900 px-8 text-sm font-medium text-gray-50 shadow transition-colors hover:bg-gray-900/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-950 disabled:pointer-events-none disabled:opacity-50 dark:bg-gray-50  dark:bg-gray-950 dark:focus-visible:ring-gray-300"
                             prefetch={false}
                         >
