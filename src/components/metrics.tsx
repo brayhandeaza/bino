@@ -42,10 +42,10 @@ const Metrics = () => {
                                 <span>Circulating Supply:</span>
                                 <span>750,000,000 BINO</span>
                             </div>
-                            <div className="flex justify-between">
+                            {/* <div className="flex justify-between">
                                 <span>Liquility Rate:</span>
                                 <span>2% per transaction</span>
-                            </div>
+                            </div> */}
                             <div className="flex justify-between">
                                 <span>Rewards:</span>
                                 <span>5% per transaction</span>
